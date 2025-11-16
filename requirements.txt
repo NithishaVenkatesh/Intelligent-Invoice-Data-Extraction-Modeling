@@ -1,0 +1,9 @@
+streamlit
+pandas
+requests
+pytesseract
+google-generativeai
+pdf2image
+Pillow
+easyocr
+python-dateutil
